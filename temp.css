@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+    margin-top: 50px;
+    margin-left:250px ;
+    margin-right: 250px;
+
+    border: 10px solid rgb(87, 128, 0);
+    text-align: center;
+
+}
+
+h1,h5{
+    display: block;
+    padding: 10px;
+    
+}
+#convert{
+    margin-top: 20px;
+    background-color: aquamarine;
+    border: 3px solid green;
+    border-radius: 10px;
+    box-sizing: border-box;
+    cursor:pointer;
+    display: block;
+    font-size: 15px;
+    position: relative;
+    text-decoration: none;
+    
+
+}
+input{
+    display: block;
+    padding: 20px;
+    margin: 20px;
+    margin-top: 10px;
+}
